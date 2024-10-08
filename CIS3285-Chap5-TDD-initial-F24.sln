@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIS3285-Chap5-TDD-initial-F24", "CIS3285-Chap5-TDD-initial-F24\CIS3285-Chap5-TDD-initial-F24.csproj", "{FE00161D-2F15-4B4D-98A5-A105873FF521}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIS3285-Chap5-TDD-initial-F24Tests", "CIS3285-Chap5-TDD-initial-F24Tests\CIS3285-Chap5-TDD-initial-F24Tests.csproj", "{8983CA71-9C64-4227-AF3C-9DE3A0DA5822}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE00161D-2F15-4B4D-98A5-A105873FF521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE00161D-2F15-4B4D-98A5-A105873FF521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE00161D-2F15-4B4D-98A5-A105873FF521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE00161D-2F15-4B4D-98A5-A105873FF521}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8983CA71-9C64-4227-AF3C-9DE3A0DA5822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8983CA71-9C64-4227-AF3C-9DE3A0DA5822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8983CA71-9C64-4227-AF3C-9DE3A0DA5822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8983CA71-9C64-4227-AF3C-9DE3A0DA5822}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {964868F3-58A9-4AA3-8374-40C2BEC391E7}
+	EndGlobalSection
+EndGlobal
